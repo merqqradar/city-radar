@@ -39,7 +39,7 @@
 Потрібен Python 3.10+ (для застосунку macOS — 3.11+).
 
 ```bash
-git clone <адреса-цього-репозиторію> city-radar && cd city-radar
+git clone https://github.com/merqqradar/city-radar.git && cd city-radar
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
