@@ -1,0 +1,18 @@
+# секрети й особисте — НІКОЛИ не потрапляє в git
+.env
+railway.env
+github.env
+*.session
+*.session-journal
+data/
+logs/
+
+# збірка й середовище
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.app/
+.DS_Store
+*.zip
